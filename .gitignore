@@ -1,0 +1,5 @@
+__pages/
+__posts/
+lib/
+*.py
+*.txt
